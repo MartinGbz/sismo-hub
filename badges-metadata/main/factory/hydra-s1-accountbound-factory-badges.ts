@@ -5059,7 +5059,7 @@ export const factoryBadges: BadgeMetadata[] = [
   {
     internalCollectionId: 2595859,
     networks: [Network.Goerli, Network.Mumbai, Network.Gnosis],
-    name: "Gotchi French Army x Sismo live ZK Badge",
+    name: "Gotchi French Army x Sismo live ZK Badge.",
     description:
       "ZK Badge owned by the collectors of TheGotchiFArmy's Lens post about the Twitch live with Sismo",
     image: "gotchi-french-army-x-sismo-live.svg",
